@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pokecries/static/css/main.71382b76.css",
-    "main.js": "/pokecries/static/js/main.47031295.js",
+    "main.js": "/pokecries/static/js/main.45b0bd0b.js",
     "static/js/453.eb7508fa.chunk.js": "/pokecries/static/js/453.eb7508fa.chunk.js",
     "static/media/pocket-monk.otf": "/pokecries/static/media/pocket-monk.09d09837f1b6dec50403.otf",
     "index.html": "/pokecries/index.html",
     "main.71382b76.css.map": "/pokecries/static/css/main.71382b76.css.map",
-    "main.47031295.js.map": "/pokecries/static/js/main.47031295.js.map",
+    "main.45b0bd0b.js.map": "/pokecries/static/js/main.45b0bd0b.js.map",
     "453.eb7508fa.chunk.js.map": "/pokecries/static/js/453.eb7508fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71382b76.css",
-    "static/js/main.47031295.js"
+    "static/js/main.45b0bd0b.js"
   ]
 }
